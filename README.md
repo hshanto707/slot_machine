@@ -1,1 +1,2 @@
-# slot_machine
+# Slot Machine
+Mini Project by Python
